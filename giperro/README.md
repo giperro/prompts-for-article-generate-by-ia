@@ -38,8 +38,8 @@ Lexica.art：
 
 Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize o PowerPoint para criação dos banners.
 
-
-
+## Link do artigo
+[Personalização em Massa: Como a Ciência de Dados está Redefinindo o Varejo](https://web.dio.me/articles/personalizacao-em-massa-como-a-ciencia-de-dados-esta-redefinindo-o-varejo?back=%2Farticles&open-modal=true&page=1&order=oldest)
 ---
 
 Por [Giovanna Rodrigues](https://github.com/giperro)
